@@ -1,4 +1,4 @@
-IST 718 - Big Data Analytics Lab Assignments
+# IST 718 - Big Data Analytics Lab Assignments
 The Lab Assignments above are part of Big Data Analytics course at Syracuse University by Prof. Daniel Acuna
 
 ## Key Learnings
